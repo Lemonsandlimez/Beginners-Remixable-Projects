@@ -10,7 +10,7 @@ You also should remix BRP projects, as templates.
   this has:
   - start.c     (introduction, short)
   - variables.c (introduction to int, char, float)
-
+  - strings.c   (introduction to array chars)
 
 ..
 Still being worked on, lol.
