@@ -47,4 +47,6 @@ int main() {	// hope you remember this :) always needs return 0; at the end
    Today your homework is to:
    print float1 + float2
    print something using char with int (like: printf("my grade is %c , my number grade is %d\n", CharGrade, NumGrade)
+   
+   comment your C homework if you want.  (prehaps in a Github Issue?)
 */
