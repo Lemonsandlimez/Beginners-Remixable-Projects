@@ -42,7 +42,9 @@ int main() {	// hope you remember this :) always needs return 0; at the end
 	return 0;
 }
 
-/* Today your homework is to:
+/* 
+   HOMEWORK:
+   Today your homework is to:
    print float1 + float2
    print something using char with int (like: printf("my grade is %c , my number grade is %d\n", CharGrade, NumGrade)
 */
