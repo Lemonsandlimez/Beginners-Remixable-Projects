@@ -17,12 +17,12 @@ int main() {	// hope you remember this :) always needs return 0; at the end
 
 	printf("y + z = %d\n", x);	// this SHOULD print 15, if it doesnt, I did something terribly wrong, we need the \n because that means new line
   
-	// integers in C (without any long or nothing, just plain int)
-	// is 4 bytes large, −2,147,483,648 to 2,147,483,647 . or 32 bits large
-	// bassicly that minecraft limit
-	// okay, but what if we wanted a charecter
-	// C doesnt have a string type (we will talk about that later) but there is a char type, we do:
-
+	/* integers in C (without any long or nothing, just plain int)
+	is 4 bytes large, −2,147,483,648 to 2,147,483,647 . or 32 bits large
+	bassicly that minecraft limit
+	okay, but what if we wanted a charecter
+	C doesnt have a string type (we will talk about that later) but there is a char type, we do:
+	*/
 	char grade = 'A';  // to print it, we can do %c:
 
 	printf("my grade is %c :) \n", grade);
@@ -42,6 +42,7 @@ int main() {	// hope you remember this :) always needs return 0; at the end
 	return 0;
 }
 
-// Today your homework is to:
-// print float1 + float2
-// print something using char with int
+/* Today your homework is to:
+   print float1 + float2
+   print something using char with int (like: printf("my grade is %c , my number grade is %d\n", CharGrade, NumGrade)
+*/
