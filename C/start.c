@@ -18,3 +18,4 @@ int main() {	// int main() this tells C that 'this function returns a integer' ,
 
 
 // Your homework today is to print something cool :)
+// comment your C homework if you want.  (prehaps in a Github Issue, idk)
