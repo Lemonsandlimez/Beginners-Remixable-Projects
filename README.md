@@ -6,7 +6,7 @@ You also should remix BRP projects, as templates. \
 
 ## Folders and Programs
 
-- C/
+- C/  \
   this has:
   - start.c     (introduction, short)
   - variables.c (introduction to int, char, float)
