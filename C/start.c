@@ -15,3 +15,6 @@ int main() {	// int main() this tells C that 'this function returns a integer' ,
 
 // the reason we need it to be called main() is because its the entry point, its the first thing you run
 // if you named it something like start() it wouldn't run, because there is no main() !
+
+
+// Your homework today is to print something cool :)
